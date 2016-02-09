@@ -133,29 +133,11 @@ ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lu
 ticketsOffers:
  -
   name: "Student/Faculty"
-  price: "8"
+  price: "FREE"
   priceCurrency: "USD"
-  buyButtonLink: "http://www.eventbrite.com/e/gdg-devfest-buffalo-2015-tickets-17823008097"
+  buyButtonLink: "https://www.eventbrite.com/e/2016-gdg-buffalo-q1-android-study-jam-and-android-app-competition-tickets-21010357545?aff=ehomecard"
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid student/faculty ID at the conference check in. Without student/faculty ID at the check in, ticket will be cancelled"
-  validThrough: "2015-09-18T23:59"
- -
-  name: "Professional: Early Bird"
-  price: "15"
-  priceCurrency: "USD"
-  buyButtonLink: "http://www.eventbrite.com/e/gdg-devfest-buffalo-2015-tickets-17823008097"
-  buyButtonText: "Buy Now"
-  validFrom: "2015-05-01T00:00"
-  validThrough: "2015-08-31T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
- -
-  name: "Professional: Regular"
-  price: "20"
-  priceCurrency: "USD"
-  buyButtonLink: "http://www.eventbrite.com/e/gdg-devfest-buffalo-2015-tickets-17823008097"
-  buyButtonText: "Buy Now"
-  validFrom: "2015-09-01T10:00"
   validThrough: "2015-09-18T23:59"
 
 # Footer
