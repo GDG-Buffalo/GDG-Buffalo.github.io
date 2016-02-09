@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG Buffalo Study Jam 2015"
+title: "GDG Buffalo Study Jam 2016"
 email: "gdgbuffalo@gmail.com"
 description: "GDG Study Jam is a set of events all around the world"
 url: "https://gdg-buffalo.github.io"
@@ -45,12 +45,11 @@ navigationLinks:
  
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2015"
-eventDate: "September 19-20, 2015"
+heroTitle: "GDG Study Jam <typeout> 2016"
+eventDate: "February 18, 2016"
 typeoutTextValues: '"", "Buffalo", "New York", "USA"'
 typeoutFallback: "Buffalo"
 heroButtons:
- - {link: "https://docs.google.com/forms/d/15BOSL3TmDgHIRmwVHsgtUynlwrdL991t4PL0rC24ylM/viewform?usp=send_form", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
