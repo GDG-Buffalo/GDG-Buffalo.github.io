@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG Buffalo DevFest 2015"
+title: "GDG Buffalo Study Jam 2016"
 email: "gdgbuffalo@gmail.com"
-description: "GDG DevFest is a set of events all around the world"
+description: "GDG Study Jam is a set of events all around the world"
 url: "https://gdg-buffalo.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
@@ -29,7 +29,7 @@ organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, buffalo"
-twitterAccount: "@DevFest"
+twitterAccount: "@StudyJamBuffalo"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -43,32 +43,32 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
 # - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+# - {permalink: "/schedule/", text: "Schedule"}
+# - {permalink: "/speakers/", text: "Speakers"}
+# - {permalink: "/team/", text: "Team"}
+# - {permalink: "/logistics/", text: "Logistics"}
+# - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://docs.google.com/forms/d/15BOSL3TmDgHIRmwVHsgtUynlwrdL991t4PL0rC24ylM/viewform?usp=send_form", text: "Become a speaker"}
+# - {link: "https://docs.google.com/forms/d/15BOSL3TmDgHIRmwVHsgtUynlwrdL991t4PL0rC24ylM/viewform?usp=send_form", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://docs.google.com/forms/d/15BOSL3TmDgHIRmwVHsgtUynlwrdL991t4PL0rC24ylM/viewform?usp=send_form", text: "Become a speaker"}
+# - {link: "https://docs.google.com/forms/d/15BOSL3TmDgHIRmwVHsgtUynlwrdL991t4PL0rC24ylM/viewform?usp=send_form", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2015"
-eventDate: "September 19-20, 2015"
+heroTitle: "GDG Study Jam <typeout> 2016"
+eventDate: "February 18, 2016"
 typeoutTextValues: '"", "Buffalo", "New York", "USA"'
 typeoutFallback: "Buffalo"
 heroButtons:
- - {link: "https://docs.google.com/forms/d/15BOSL3TmDgHIRmwVHsgtUynlwrdL991t4PL0rC24ylM/viewform?usp=send_form", text: "Become a speaker"}
+# - {link: "https://docs.google.com/forms/d/15BOSL3TmDgHIRmwVHsgtUynlwrdL991t4PL0rC24ylM/viewform?usp=send_form", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About GDG Study Jam"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
+# - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+# - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -96,9 +96,9 @@ eventAddressLocality: "Amherst"
 eventAddressLocalityRegion: "New York"
 eventPostalCode: "14260"
 eventAddressCountry: "USA"
-eventStartTime: "2015-09-19T10:00"
+eventStartTime: "2016-02-18T18:00"
 eventDoorTime: "09:00"
-eventEndTime: "2015-09-20T17:00"
+eventEndTime: "2016-02-18T21:00"
 eventPlaceCoordinates: "43.00275,-78.787242"
 mapCenterCoordinates: "43.00275,-78.787242"
 mapMobileCenterCoordinates: "43.00275,-78.787242"
@@ -115,7 +115,7 @@ venueFeatures: ["Located at 1st floor of Davis Hall"]
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "GDGDevFestBuffalo"
+twitterHashTag: "GDGBuffaloStudyJam"
 twitterFeed: "http://gdg-buffalo.github.io/zeppelin/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
