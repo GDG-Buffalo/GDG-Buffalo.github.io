@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG Buffalo Study Jam 2016"
+title: "GDG Buffalo Study Jam 2015"
 email: "gdgbuffalo@gmail.com"
 description: "GDG Study Jam is a set of events all around the world"
 url: "https://gdg-buffalo.github.io"
@@ -28,7 +28,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, buffalo"
+metaKeywords: "event, gdg, study jam, google, programming, android, chrome, developers, buffalo"
 twitterAccount: "@StudyJamBuffalo"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -45,7 +45,7 @@ navigationLinks:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG Study Jam <typeout> 2016"
+heroTitle: "GDG Study Jam <typeout> 2015"
 eventDate: "February 18, 2016"
 typeoutTextValues: '"", "Buffalo", "New York", "USA"'
 typeoutFallback: "Buffalo"
@@ -53,10 +53,10 @@ heroButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG Study Jam"
+aboutTitle: "About GDG DevFest"
 aboutBlock:
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
-
+ 
 # Latest News Block
 latestNewsTitle: "Latest news"
 
@@ -69,9 +69,9 @@ eventAddressLocality: "Amherst"
 eventAddressLocalityRegion: "New York"
 eventPostalCode: "14260"
 eventAddressCountry: "USA"
-eventStartTime: "2016-02-18T18:00"
+eventStartTime: "2015-09-19T10:00"
 eventDoorTime: "09:00"
-eventEndTime: "2016-02-18T21:00"
+eventEndTime: "2015-09-20T17:00"
 eventPlaceCoordinates: "43.00275,-78.787242"
 mapCenterCoordinates: "43.00275,-78.787242"
 mapMobileCenterCoordinates: "43.00275,-78.787242"
@@ -88,7 +88,7 @@ venueFeatures: ["Located at 1st floor of Davis Hall"]
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "GDGBuffaloStudyJam"
+twitterHashTag: "GDGDevFestBuffalo"
 twitterFeed: "http://gdg-buffalo.github.io/zeppelin/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
@@ -107,12 +107,11 @@ ticketsOffers:
  -
   name: "Student/Faculty"
   price: "FREE"
-  priceCurrency: "USD"
-  buyButtonLink: "https://www.eventbrite.com/e/2016-gdg-buffalo-q1-android-study-jam-and-android-app-competition-tickets-21010357545?aff=ehomecard"
+  buyButtonLink: "http://www.eventbrite.com/e/gdg-devfest-buffalo-2015-tickets-17823008097"
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid student/faculty ID at the conference check in. Without student/faculty ID at the check in, ticket will be cancelled"
-  validThrough: "2016-02-18T05:59"
-
+  validThrough: "2016-02-18T17:59"
+ 
 # Footer
 socialLinks:
  - {link: "https://plus.google.com/108106255897548082799", icon: "google-plus"}
@@ -138,4 +137,31 @@ footerBlocks:
 blogTitle: "Latest news"
 blogCommentsEnabled: true
 discusShortName: "devfestua"
+
+# Speakers List Block
+showSessions: true
+
+# Team Block
+teamBlockTitle: "About us"
+aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+
+# Logistics Find Way Block
+findWayTitle: "Find your way here"
+findWayDistance: "Distance"
+findWayDriving: "DRIVING"
+findWayWalking: "WALKING"
+findWayBicycling: "BICYCLING"
+findWayTransit: "TRANSIT"
+findWayFindFlight: "Find Flight"
+logisticsMapCenterCoordinates: "43.00275,-78.787242"
+logisticsMapMobileCenterCoordinates: "43.00275,-78.787242"
+logisticsMapAutoDirections: false
+
+# Logistics Direction Details Block
+directionDetailsImage: "direction-details.jpg"
+directionDetailsTitle: "Get around Buffalo"
+directionDetailsCards:
+ - {title: "From the Airport", information: 'Exit the airport following the signs leading to Route 33 West toward Buffalo. Route 33 (Kensington Expressway) begins at the West Gate of the Buffalo Niagara Airport. Take Route 33 West to the I-90 East to the I-290 West. Take the I-290 West (toward Niagara Falls) to Exit 5B (Millersport Highway, Route 263). Get off exit and merge into traffic. Go through first light (Marriott is on your left), and merge into right lane. Enter campus at the Flint Road exit.'}
+ - {title: "Public Transit", information: 'Bus Transit is available in Buffalo. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Buffalo.'}
+ - {title: "Hotels", information: 'Buffalo has lots of great hotels and hostels. More information will be available later.'}
 
