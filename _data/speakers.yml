@@ -1,0 +1,86 @@
+-
+  id: 1
+  name: "Martin"
+  surname: "Omander"
+  company: "Google"
+  title: "Program Manager"
+  bio: "Martin Omander, the man, the myth, the legend, all the way from the Google HQ in Silicon Valley Developer Relations Team."
+  thumbnailUrl: Martin.jpg
+  rockstar: false
+-
+  id: 2
+  name: "Geoffrey"
+  surname: "Challen"
+  company: "University at Buffalo"
+  title: "Assistant Professor"
+  bio: "I’m an Assistant Professor at the University at Buffalo, where I lead the blue Systems Research Group and also direct the PhoneLab. My research interests are in systems and networking, mobile systems, and smartphones. I teach an introduction to computer operating systems and a graduate seminar covering a variety of contemporary topics in mobile systems."
+  thumbnailUrl: Geoffrey.jpg
+  rockstar: true
+-
+  id: 3
+  name: "Bob"
+  surname: "Neubert"
+  company: "University at Buffalo"
+  title: "Clinical Assistant Professor, School of Management Department of Operations and Strategy (OMS)"
+  bio: "Entrepreneur with broad experiences in all aspects of business start-ups. Direct experience with product development, business strategy creation, start-up launches, marketing, sales, operations, technology development, intellectual propertycreation, human resource management, and investor recruitment.
+
+Specialties: Entrepreneurship | Entrepreneurship Education | Product Development | Mobile App Development | Marketing | Business Strategy | Cause-based Marketing | Restaurant Marketing | Cause Fundraising | Marketing Consulting | Personal Productivity Tools"
+  thumbnailUrl: Bob.jpg
+  rockstar: true
+-
+  id: 4
+  name: "Varun"
+  surname: "Chandola"
+  company: "University at Buffalo"
+  title: "Assistant Professor"
+  bio: "I am a tenure-track assistant professor in the Computer Science and Engineering Department and the Center for Computational Data Science and Engineering (CDSE) at the State University of New York (SUNY) at Buffalo. I completed my PhD from University of Minnesota, Department of Computer Science. My research is in the area of scalable anomaly detection and data mining for big graphs, temporal, and spatial data."
+  thumbnailUrl: Chandola.jpg
+  rockstar: true
+-
+  id: 5
+  name: "Holly M."
+  surname: "Justice"
+  company: "University at Buffalo"
+  title: "Engineering Career Counselor"
+  thumbnailUrl: Holly.jpg
+  rockstar: true
+-
+  id: 6
+  name: "Emily"
+  surname: "Rasowsky"
+  company: "Social Driver"
+  title: "Director of Marketing Strategy"
+  thumbnailUrl: Emily.jpg
+  rockstar: true
+-
+  id: 7
+  name: "Bret"
+  surname: "McGowen"
+  company: "Google"
+  title: "Developer Advocate"
+  thumbnailUrl: Bret.jpg
+  rockstar: true
+-
+  id: 8
+  name: "Nitya"
+  surname: "Narasimhan"
+  company: "Google Developer Group"
+  title: "Google Developer Group Hudson Valley"
+  thumbnailUrl: Nitya.jpg
+  rockstar: true
+-
+  id: 9
+  name: "Katarina"
+  surname: "Crea"
+  company: "Google"
+  title: "Google Developer Group Baltimore"
+  thumbnailUrl: Katarina.jpg
+  rockstar: true
+-
+  id: 10
+  name: "Anandatirtha"
+  surname: "Nandugudi"
+  company: "University at Buffalo"
+  title: "Computer Science PhD Candidate"
+  thumbnailUrl: anand.jpg
+  rockstar: true

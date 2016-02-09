@@ -1,0 +1,150 @@
+-
+  id: 001
+  title: "Google - Cloud Tech Talk"
+  subtype: workshop
+  speakers: [7]
+  complexity: "Intermediate"
+  location: "Davis Hall 101"
+-
+  id: 002
+  title: "Building Less Certain Mobile Apps"
+  description: "While the success of app marketplaces has made it easier to distribute mobile apps, global distribution has made it harder to write them. To achieve good performance on billions of devices around the globe, mobile apps must run efficiently on a wide variety of hardware, cope with constantly changing network conditions, conserve limited energy resources, and deal with varying availability and accuracy of core services such as location, all while satisfying a diverse community of users. This diversity creates development-time uncertainty for app programmers, who may be unsure how to adapt their app to achieve good performance at all times, for anyone, anywhere.
+
+In this talk I will present our new system, maybe, which addresses the challenge of mobile systems adaptation by allowing programmers to express—rather than suppress—development-time uncertainty. A new language construct allows programmers to indicate where they are uncertain about what to do, what legitimate options are available, and what constitutes success or failure—all things that can be determined at development time. Post-deployment testing and machine learning are then used to resolve the uncertainty by crafting effective data-driven adaptation strategies once more information is known. Experiences using maybe to introduce uncertainty into the Android platform demonstrate that our system both enables and simplifies adaptation. "
+  subtype: presentation
+  speakers: [2]
+  complexity: "Intermediate"
+  location: "Davis Hall 101"
+-
+  id: 003
+  title: "Entrepreneurship"
+  subtype: presentation
+  speakers: [3]
+  complexity: "Intermediate"
+  location: "Davis Hall 101"
+-
+  id: 004
+  title: "Open source tools for Geospatial Analysis"
+  subtype: presentation
+  speakers: [4]
+  complexity: "Intermediate"
+  location: "Davis Hall 101"
+-
+  id: 005
+  title: "Social Networking skills and How to stand out from a large pool of talent"
+  subtype: presentation
+  speakers: [5]
+  complexity: "Intermediate"
+  location: "Davis Hall 101"
+-
+  id: 006
+  title: "Women and Technology"
+  subtype: presentation
+  speakers: [6]
+  complexity: "Intermediate"
+  location: "Davis Hall 101"
+-
+  id: 008
+  title: "Intro to Web Components & Polymer"
+  subtype: presentation
+  speakers: [8]
+  complexity: "Intermediate"
+  location: "Davis Hall 101"
+-
+  id: 009
+  title: "Google - Google Glass"
+  subtype: presentation
+  speakers: [9]
+  complexity: "Intermediate"
+  location: "Davis Hall 101"
+-
+  id: 010
+  title: "Google - Firebase Workshop, Q&A"
+  subtype: presentation
+  speakers: [7]
+  complexity: "Intermediate"
+  location: "Davis Hall 113A"
+-
+  id: 011
+  title: "Entrepreneurship"
+  subtype: presentation
+  speakers: [3]
+  complexity: "Intermediate"
+  location: "Davis Hall 113A"
+-
+  id: 101
+  title: "Registration Open"
+  place: "Hall"
+  service: true
+  description: "Registration will start at 8:30 AM"
+-
+  id: 102
+  title: "Lunch Time"
+  place: "Hall"
+  service: true
+-
+  id: 103
+  title: "Breakfast Time"
+  place: "Hall"
+  service: true
+-
+  id: 104
+  title: "Dinner Time"
+  place: "Hall"
+  service: true
+-
+  id: 105
+  title: "Late Night Time"
+  place: "Hall"
+  service: true
+  description: "Enjoy the awesome night with the awesome late night with us! You will be surprised how awesome the late night going to be!"
+-
+  id: 106
+  title: "Hackathon Final Presentation and Closing Ceremony"
+  place: "Hall"
+  service: true
+  description: "It is time for you shine your hard work to the judge!"
+# -
+#   id: 107
+#   title: "Closing Ceremony"
+#   place: "Hall"
+#   service: true
+#   description: "It is time for you shine your hard work to the judges!"
+-
+  id: 108
+  title: "Google Jeopardy"
+  place: "Hall"
+  service: true
+  description: "Take a break! Have fun with the America's Favorite Quiz Game!"
+-
+  id: 109
+  title: "GDG DevFest After Party"
+  place: "Hall"
+  service: true
+  description: "Come and have a beer and meet great people with us!"
+-
+  id: 110
+  title: "Hackathon Start"
+  place: "Hall"
+  service: true
+  description: "Start hacking and make awesome app!"
+-
+  id: 111
+  title: "Hackathon End"
+  place: "Hall"
+  service: true
+  description: "Finish up your last line of code and be ready!"
+-
+  id: 112
+  title: "Hackathon Round #1"
+  place: "Hall"
+  service: true
+  description: "Submit your Powerpoint Slide and wait for result!"
+
+-
+  id: 133
+  title: "Google Map APIs"
+  subtype: Workshop
+  speakers: [10]
+  complexity: "Intermediate"
+  location: "Davis Hall 113A"

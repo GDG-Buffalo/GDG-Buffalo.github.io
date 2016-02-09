@@ -1,0 +1,41 @@
+- 
+  id: 0
+  name: "Alan"
+  surname: "Zhang"
+  title: "Organizer and Founder"
+  thumbnailUrl: Mingcong.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+- 
+  id: 1
+  name: "Er An"
+  surname: "Khoo"
+  title: "Organizer and Web Developer"
+  thumbnailUrl: ErAn.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+- 
+  id: 2
+  name: "Congying"
+  surname: "Wang"
+  title: "Organizer and Public Relation"
+  thumbnailUrl: Congying.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+- 
+  id: 4
+  name: "Martin"
+  surname: "Omander"
+  title: "Program Manager"
+  thumbnailUrl: Martin.jpg
+  subTeam: true
+- 
+  id: 7
+  name: "Nitya"
+  surname: "Narasimhan"
+  title: "GDG Northeast Mentor"
+  thumbnailUrl: Nitya.jpg
+  subTeam: true

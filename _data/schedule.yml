@@ -1,0 +1,114 @@
+-
+  date: "2015-09-19"
+  dateReadable: "September 19"
+  tracks:
+    - {title: "Tech Talk", color: "#90be4e"}
+    - {title: "Workshop", color: "#03a9f4"}
+    - {title: "Hackathon", color: "#e91e63"}
+  timeslots:
+    - {
+    	startTime: "8:30",
+    	endTime: "10:00",
+    	sessionIds: [101]
+    }
+    - {
+        startTime: "10:00",
+        endTime: "10:30",
+        sessionIds: [005]
+    }
+    - {
+        startTime: "10:30",
+        endTime: "11:00",
+        sessionIds: [003]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "12:00",
+        sessionIds: [001]
+    }
+    - {
+        startTime: "12:00",
+        endTime: "13:00",
+        sessionIds: [004]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "14:00",
+        sessionIds: [102,404,110]
+    }
+    - {
+        startTime: "14:00",
+        endTime: "14:30",
+        sessionIds: [009,010,404]
+    }
+    - {
+        startTime: "14:30",
+        endTime: "15:00",
+        sessionIds: [008,010,404]
+    }
+    - {
+        startTime: "15:00",
+        endTime: "16:00",
+        sessionIds: [002,011,404]
+    }
+    - {
+        startTime: "18:00",
+        endTime: "19:00",
+        sessionIds: [104]
+    }
+    - {
+        startTime: "19:00",
+        endTime: "20:00",
+        sessionIds: [006]
+    }
+    - {
+        startTime: "20:00",
+        endTime: "21:00",
+        sessionIds: [108]
+    }
+    - {
+        startTime: "23:00",
+        endTime: "24:00",
+        sessionIds: [105]
+    }
+-
+  date: "2015-09-20"
+  dateReadable: "September 20"
+  tracks:
+    - {title: "Hackathon", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "7:00",
+    	endTime: "8:00",
+    	sessionIds: [103]
+    }
+    - {
+        startTime: "08:00",
+        endTime: "09:00",
+        sessionIds: [133]
+    }
+    - {
+    	startTime: "12:00",
+    	endTime: "13:00",
+    	sessionIds: [102,111]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "14:00",
+        sessionIds: [112]
+    }
+    - {
+        startTime: "14:00",
+        endTime: "16:00",
+        sessionIds: [106]
+    }
+    # - {
+    # 	startTime: "16:00",
+    # 	endTime: "17:00",
+    # 	sessionIds: [107]
+    # }
+    - {
+        startTime: "20:00",
+        endTime: "22:00",
+        sessionIds: [109]
+    }

@@ -1,0 +1,28 @@
+- 
+  id: 0
+  name: "Bob"
+  surname: "Neubert"
+  company: "University at Buffalo"
+  title: "Clinical Assistant Professor, School of Management Department of Operations and Strategy (OMS)"
+  thumbnailUrl: Bob.jpg
+- 
+  id: 1
+  name: "Jaroslaw"
+  surname: "Zola"
+  company: "University at Buffalo"
+  title: "Assistant Professor"
+  thumbnailUrl: Jaroslaw.jpg
+- 
+  id: 2
+  name: "Wenyao"
+  surname: "Xu"
+  company: "University at Buffalo"
+  title: "Assistant Professor"
+  thumbnailUrl: Wenyao.png
+- 
+  id: 3
+  name: "Gokhan"
+  surname: "Kul"
+  company: "University at Buffalo"
+  title: "Research Assistant/Ph.D. Student"
+  thumbnailUrl: Goh.jpg
