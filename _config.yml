@@ -41,7 +41,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "Home"}
+# - {permalink: "/", text: "Home"}
  
 # Hero Block
 heroImage: "hero.jpg"
