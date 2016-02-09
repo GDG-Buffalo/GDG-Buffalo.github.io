@@ -57,14 +57,6 @@ aboutTitle: "About GDG DevFest"
 aboutBlock:
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
 
-# Statistic Block
-statisticBlockImage: "statistic.jpg"
-statisticBlock:
- - {count: "200", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "28", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "9", specialCharacter: "", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
-
 # Latest News Block
 latestNewsTitle: "Latest news"
 
@@ -83,9 +75,9 @@ eventAddressLocality: "Amherst"
 eventAddressLocalityRegion: "New York"
 eventPostalCode: "14260"
 eventAddressCountry: "USA"
-eventStartTime: "2015-09-19T10:00"
-eventDoorTime: "09:00"
-eventEndTime: "2015-09-20T17:00"
+eventStartTime: "2016-02-18T18:00"
+eventDoorTime: "18:00"
+eventEndTime: "2016-02-18T21:00"
 eventPlaceCoordinates: "43.00275,-78.787242"
 mapCenterCoordinates: "43.00275,-78.787242"
 mapMobileCenterCoordinates: "43.00275,-78.787242"
@@ -120,8 +112,7 @@ ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lu
 ticketsOffers:
  -
   name: "Student/Faculty"
-  price: "8"
-  priceCurrency: "USD"
+  price: "FREE"
   buyButtonLink: "http://www.eventbrite.com/e/gdg-devfest-buffalo-2015-tickets-17823008097"
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid student/faculty ID at the conference check in. Without student/faculty ID at the check in, ticket will be cancelled"
