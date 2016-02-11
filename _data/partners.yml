@@ -3,30 +3,17 @@
   elements:
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
 #    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-    - {name: "Snowberg", description: "Snowberg Inc. is a Buffalo local start-up focusing on mobile app products", link: "http://www.snowbergtech.com/", imageUrl: "Snowberg.png"}
-    - {name: "Ted's Hot Dogs", description: "Ted's Hot Dogs", link: "https://www.tedshotdogs.com/", imageUrl: "Teds.jpg"}
     - {name: "UB SEAS", description: "The State University of New York at Buffalo School of Engineering and Applied Sciences", link: "http://engineering.buffalo.edu/", imageUrl: "seas.jpg"}
     - {name: "CSE Buffalo", description: "CSE Buffalo", link: "http://www.cse.buffalo.edu", imageUrl: "Cse.gif"}
-    - {name: "US Marine Corps", description: "US Marine Corps", link: "http://www.marines.mil/", imageUrl: "marine.jpg"}
-    - {name: "US NAVY", description: "US NAVY", link: "http://www.navy.com/", imageUrl: "navy.jpg"}
-    - {name: "CreativeTim", description: "CreativeTim", link: "http://www.creative-tim.com", imageUrl: "CreativeTim.png"}
-    - {name: "Zetti's Pizza & Pasta", description: "Zetti's Pizza & Pasta at Maple Rd", link: "http://www.zettis.com/", imageUrl: "zetti.gif"}
-    - {name: "Banchetti By Rizzo's", description: "Banchetti By Rizzo's", link: "http://www.banchettibyrizzos.com/", imageUrl: "rizzo.jpg"}
-    - {name: "Duff's Famous Wings", description: "Duff's Famous Wings", link: "http://www.duffswings.com/", imageUrl: "duffs.png"}
-    - {name: "O’Reilly Media", description: "O’Reilly Media", link: "http://www.oreilly.com/", imageUrl: "oreilly.jpg"}
-    - {name: "Office Depot", description: "Office Depot", link: "http://www.officedepot.com/", imageUrl: "officemax.jpg"}
-    - {name: "DiCamillo Bakery", description: "DiCamillo Bakery", link: "http://www.dicamillobakery.com/", imageUrl: "dicamillo.png"}
-    - {name: "The Family Tree Restaurant", description: "The Family Tree Restaurant", link: "http://thefamilytreerestaurant.com/", imageUrl: "familytree.jpg"}
-    - {name: "UB Office of Student Engagement", description: "UB Office of Student Engagement", link: "http://www.leadership.buffalo.edu/", imageUrl: "engagement.jpg"}
-    - {name: "In Collision Auto & Repair", description: "In Collision Auto & Repair", link: "http://www.incollisioninc.com", imageUrl: "Incollision.png"}
-    - {name: "Walgreens", description: "Walgreens", link: "http://www.walgreens.com/", imageUrl: "walgreens.png"}
-    - {name: "Trattoria Aroma on Main", description: "Trattoria Aroma on Main", link: "http://aromamainst.com/", imageUrl: "aroma.png"}
-    - {name: "TGI Fridays", description: "TGI Fridays at 1209 Niagara Falls Blvd, Buffalo, NY 14226", link: "http://www.tgifridays.com/", imageUrl: "tgif.png"}
+#    - {name: "Zetti's Pizza & Pasta", description: "Zetti's Pizza & Pasta at Maple Rd", link: "http://www.zettis.com/", imageUrl: "zetti.gif"}
+#    - {name: "Banchetti By Rizzo's", description: "Banchetti By Rizzo's", link: "http://www.banchettibyrizzos.com/", imageUrl: "rizzo.jpg"}
+#    - {name: "Duff's Famous Wings", description: "Duff's Famous Wings", link: "http://www.duffswings.com/", imageUrl: "duffs.png"}
+#    - {name: "DiCamillo Bakery", description: "DiCamillo Bakery", link: "http://www.dicamillobakery.com/", imageUrl: "dicamillo.png"}
+#    - {name: "The Family Tree Restaurant", description: "The Family Tree Restaurant", link: "http://thefamilytreerestaurant.com/", imageUrl: "familytree.jpg"}
+    - {name: "Leonardispizzeria", description: "Leonardispizzeria", link: "http://www.leonardispizzeriainc.biz", imageUrl: "leonard.jpg"}
 -
   group: "With support of"
   elements:
-    - {name: "MASA", description: "Malaysian Student Association at SUNY Buffalo", link: "https://www.facebook.com/Suny.UBMaSa", imageUrl: "masa.jpg", width: "120px"}
-    - {name: "UB Career Services", description: "UB Career Services", link: "http://www.buffalo.edu/career.html", imageUrl: "ubcareer.jpg", width: "120px"}
     - {name: "UB", description: "The State University of New York at Buffalo", link: "https://www.buffalo.edu", imageUrl: "ub.png", width: "120px"}
 #    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg", width: "120px"}
 #    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg", width: "120px"}
