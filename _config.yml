@@ -55,7 +55,7 @@ heroButtons:
 # About Block
 aboutTitle: "About GDG Study Jam"
 aboutBlock:
- - {title: "Workshops", image: "workshop.jpg", text: "Come join GDG Buffalo for our “Android Study Jam”! 
+ - {title: "Workshops", image: "workshop.jpg", text: "Come join GDG Buffalo for our “Android Study Jam”!</br> 
 
 Student who participate in this event are expected to have completed the FREE Udacity course “Android 
 
