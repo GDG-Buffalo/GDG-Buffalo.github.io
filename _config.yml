@@ -55,7 +55,17 @@ heroButtons:
 # About Block
 aboutTitle: "About GDG Study Jam"
 aboutBlock:
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Come join GDG Buffalo for our “Android Study Jam”! 
+
+Student who participate in this event are expected to have completed the FREE Udacity course “Android 
+
+Development for Beginners” before the event. The course can be accessed via the following link:
+
+https://www.udacity.com/course/android-development-for-beginners--ud837
+
+FREE food and drinks will be supplied as well. All participants will be provided a ticket upon signing in. at 
+
+the end of the evening we will be having a drawing with the following prizes" }
 
 # Latest News Block
 latestNewsTitle: "Latest news"
