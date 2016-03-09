@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG Buffalo Study Jam 2016"
+title: "GDG Buffalo Google IO Extended 2016"
 email: "gdgbuffalo@gmail.com"
 description: "GDG Study Jam is a set of events all around the world"
 url: "https://gdg-buffalo.github.io"
@@ -19,17 +19,17 @@ googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-buffalo.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
-# Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
-organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+# # Organizer Info
+# organizerName: "GDG Lviv"
+# organizerAlternateName: "Google Developer Group Lviv"
+# organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+# organizerEmail: "lviv@gdg.org.ua"
+# organizerLogo: "/img/seo/organizer-logo.png"
+# organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
-metaKeywords: "event, gdg, study jam, google, programming, android, chrome, developers, buffalo"
-twitterAccount: "@StudyJamBuffalo"
+metaKeywords: "event, gdg, Google IO, google, programming, android, chrome, developers, buffalo"
+twitterAccount: "@IOExtendedBuffalo"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -47,23 +47,23 @@ navigationLinks:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG Study Jam <typeout> 2016"
-eventDate: "February 18, 2016"
+heroTitle: "GDG IO Extended <typeout> 2016"
+eventDate: "May 18, 2016"
 typeoutTextValues: '"", "Buffalo", "New York", "USA"'
 typeoutFallback: "Buffalo"
 heroButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG Study Jam"
+aboutTitle: "About Google IO"
 aboutBlock:
- - {title: "Workshops", image: "workshop.jpg", text: "Come join GDG Buffalo for our “Android Study Jam”!</br> </br>
+ - {title: "Workshops", image: "workshop.jpg", text: "Come join GDG Buffalo for our “Google IO Extended 2016”!</br> </br>
 
-Students who participate in this event are expected to have completed the FREE Udacity course “Android
+# Students who participate in this event are expected to have completed the FREE Udacity course “Android
 
-Development for Beginners” before the event. The course can be accessed via the following link:<br/><br/><a href=\"https://www.udacity.com/account/affiliate/GoogleStudyJams\">
-
-https://www.udacity.com/account/affiliate/GoogleStudyJams
+# Development for Beginners” before the event. The course can be accessed via the following link:<br/><br/><a href=\"https://www.udacity.com/account/affiliate/GoogleStudyJams\">
+#
+# https://www.udacity.com/account/affiliate/GoogleStudyJams
 </a><br/><br/>
 FREE food and drinks will be supplied as well. All participants will be provided a ticket upon signing in. <br/> At the end of the evening we will raffle off <b>$1,000 in prizes!</b>" }
 
