@@ -47,7 +47,7 @@ navigationLinks:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG IO Extended <typeout> 2016"
+heroTitle: "Google IO Extended <typeout> 2016"
 eventDate: "May 18, 2016"
 typeoutTextValues: '"", "Buffalo", "New York", "USA"'
 typeoutFallback: "Buffalo"
