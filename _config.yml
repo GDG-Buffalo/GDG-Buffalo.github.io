@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG Buffalo Google IO Extended 2016"
+title: "GDG Buffalo Google IO Extended 2018"
 email: "gdgbuffalo@gmail.com"
 description: "GDG Study Jam is a set of events all around the world"
 url: "https://gdg-buffalo.github.io"
@@ -47,8 +47,8 @@ navigationLinks:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Google IO Extended <typeout> 2016"
-eventDate: "May 18, 2016"
+heroTitle: "Google IO Extended <typeout> 2018"
+eventDate: "May 18, 2018"
 typeoutTextValues: '"", "Buffalo", "New York", "USA"'
 typeoutFallback: "Buffalo"
 heroButtons:
@@ -57,7 +57,7 @@ heroButtons:
 # About Block
 aboutTitle: "About Google IO"
 aboutBlock:
- - {title: "Workshops", image: "workshop.jpg", text: "Come join GDG Buffalo for our “Google IO Extended 2016”!</br> </br>
+ - {title: "Workshops", image: "workshop.jpg", text: "Come join GDG Buffalo for our “Google IO Extended 2018”!</br> </br>
 
 
 </a><br/><br/>
@@ -81,9 +81,9 @@ eventAddressLocality: "Amherst"
 eventAddressLocalityRegion: "New York"
 eventPostalCode: "14260"
 eventAddressCountry: "USA"
-eventStartTime: "2016-02-18T18:00"
+eventStartTime: "2018-05-18T18:00"
 eventDoorTime: "18:00"
-eventEndTime: "2016-02-18T21:00"
+eventEndTime: "2018-05-18T21:00"
 eventPlaceCoordinates: "43.00275,-78.787242"
 mapCenterCoordinates: "43.00275,-78.787242"
 mapMobileCenterCoordinates: "43.00275,-78.787242"
@@ -119,10 +119,10 @@ ticketsOffers:
  -
   name: "Student/Faculty"
   price: "FREE"
-  buyButtonLink: "https://www.eventbrite.com/e/2016-gdg-buffalo-q1-android-study-jam-and-android-app-competition-tickets-21010357545?aff=ehomecard"
+  buyButtonLink: "#"
   buyButtonText: "Register Now"
   additionalInfo: "Requires a valid student/faculty ID at the conference check in. Without student/faculty ID at the check in, ticket will be cancelled"
-  validThrough: "2016-02-18T17:59"
+  validThrough: "2018-05-18T17:59"
 
 # Footer
 socialLinks:
