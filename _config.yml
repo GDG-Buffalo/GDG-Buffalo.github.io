@@ -43,7 +43,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
 # - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/IOExtended/", text: "2016 Google IO Extended"}
+ - {permalink: "/IOExtended/", text: "2018 Google IO Extended"}
 
 # Hero Block
 heroImage: "hero.jpg"
